@@ -385,7 +385,7 @@ body {
 
 @media (max-width:820px) {
     .wwd-icons {
-        flex-wrap: wrap;
+        flex-wrap: wrap; 
     }
 }
 
